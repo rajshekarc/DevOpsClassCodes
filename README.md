@@ -9,6 +9,7 @@ Running the example from the command    akshat gupta  ddddd aksatkjkk
 ---checking webhook---
 ---wait---
 --changed in comp---
+--TESTING POLL SCM---
 $ mvn jetty:run
 ```
 
